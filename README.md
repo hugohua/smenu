@@ -1,7 +1,7 @@
 smenu
 =====
 
-smenu 是一个侧边栏滑动插件，是仿原生App的一个侧边栏效果，smenu 全程是sidebar menu。
+smenu 是一个侧边栏滑动插件，是仿原生App的一个侧边栏效果，smenu 全称是sidebar menu。
 
 因项目需要，该版本目前仅在chrome 和 safari 下运行。
 
