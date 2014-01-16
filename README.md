@@ -7,7 +7,7 @@ smenu 是一个侧边栏滑动插件，是仿原生App的一个侧边栏效果�
 
 另外，在打开侧边栏时，旋转屏幕会导致横向滚动条出现，应该是样式导致的，目前尚未解决。
 
-![DEMO](http://oos.me/smenu/demo.gif)
+![smenu DEMO](http://oos.me/smenu/demo.gif)
 
 ##Use
 
