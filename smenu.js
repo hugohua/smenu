@@ -26,7 +26,6 @@
                 var me = this;
 
                 this.$btn.on('tap.sMenu',function(e){
-                    console.info('aaa')
                     !me.isOpen() ? me.open() : me.close();
                     e.preventDefault();
                 })
@@ -150,8 +149,3 @@
     };
 
 })();
-
-//DEBUG
-$('.WX_nav').on('tap',function(){
-    window.location.reload();
-})
