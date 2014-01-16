@@ -36,6 +36,7 @@ $("#J_menu").smenu('open');
 ```js
 $("#J_menu").smenu('close');
 ```
+
 3. 判断是否打开了侧边栏 isOpen
 ```js
 $("#J_menu").smenu('isOpen');
